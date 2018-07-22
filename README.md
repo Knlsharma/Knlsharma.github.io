@@ -1,2 +1,14 @@
-# web
-Simple project of testing the  hosted website via github pages
+# website
+
+Via github.io
+
+Live website @ https://knlsharma.github.io
+
+ Descirbes
+ 
+ - profile
+ -About
+ -Experience
+ -Education
+ -Skills
+ -Interests
