@@ -1,9 +1,4 @@
-# website
-
-Via github.io
-
-Live website @ https://knlsharma.github.io
-
+#Live website  <a href="https://knlsharma.github.io">Kunal Sharma</a>
  Descirbes-Portfolio
  
  - profile
