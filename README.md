@@ -4,8 +4,8 @@
 # Live Website  <a href="https://knlsharma.github.io">Kunal Sharma</a>
  **Descirbes-Portfolio**
  
- - ***profile***
- - ***About
+ **Profile**
+ - About
  - Experience
  - Education
  - Skills
