@@ -10,6 +10,7 @@
  - Education
  - Skills
  - Interests
+ - Blog
  
  ## Resume
 
